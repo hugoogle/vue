@@ -1,0 +1,60 @@
+{
+  "produtos": [
+    {
+      "codigo": 881, 
+      "imagem": "https://i.ibb.co/bLPgwgB/arroz.jpg",
+      "descricao": "Arroz",
+      "preco": "20.00",
+      "departamento": "mercearia"
+    },
+    {
+      "codigo": 882,
+      "imagem": "https://i.ibb.co/cLFMRkm/coca-cola.jpg",
+      "descricao": "Coca-cola",
+      "preco": "12.00",
+      "departamento": "bebidas"
+    },
+    {
+      "codigo": 883,
+      "imagem": "https://i.ibb.co/R0n31jt/cream-cracker.jpg",
+      "descricao": "Cream-cracker",
+      "preco": "7.50",
+      "departamento": "mercearia"
+    },
+    {
+      "codigo": 884,
+      "imagem": "https://i.ibb.co/ryGXgP3/frutas.jpg",
+      "descricao": "Frutas",
+      "preco": "3.99",
+      "departamento": "hortifruti"
+    },
+    {
+      "codigo": 885,
+      "imagem": "https://i.ibb.co/f15H7Qw/mems.jpg",
+      "descricao": "Mms",
+      "preco": "10.00",
+      "departamento": "mercearia"
+    },
+    {
+      "codigo": 886,
+      "imagem": "https://i.ibb.co/NZ067jp/rosquinha-coco.jpg",
+      "descricao": "Roquinha coco",
+      "preco": "8.65",
+      "departamento": "mercearia"
+    },
+    {
+      "codigo": 887, 
+      "imagem": "https://i.ibb.co/zZXhLJ0/sadia-lasanha-frango.jpg",
+      "descricao": "Sadia lasanha frango",
+      "preco": "14.80",
+      "departamento": "congelados"
+    },
+    {
+      "codigo": 888,
+      "imagem": "https://i.ibb.co/LQSbwdk/vinhos.jpg",
+      "descricao": "Vinhos",
+      "preco": "72.00",
+      "departamento": "bebidas"
+    }
+  ]
+}
